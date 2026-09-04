@@ -1,0 +1,253 @@
+[
+  {
+    "id": "p1",
+    "name": "Salmon & Rice Kibble 2kg",
+    "category": "food",
+    "price": 18.99,
+    "rating": 4.5,
+    "reviewCount": 128,
+    "description": "Grain-inclusive adult dog food made with real salmon, brown rice and omega-3 for a shiny coat and healthy digestion.",
+    "details": ["2kg resealable pouch", "No artificial colours or flavours", "Suitable for adult dogs, 1-7 years"],
+    "sizes": [
+      { "label": "2kg", "priceDelta": 0.0 },
+      { "label": "5kg", "priceDelta": 18.0 },
+      { "label": "10kg", "priceDelta": 40.0 }
+    ],
+    "icon": "pets",
+    "tint": "DCE1F0"
+  },
+  {
+    "id": "p2",
+    "name": "Chicken & Veg Adult Dog Food 3kg",
+    "category": "food",
+    "price": 22.5,
+    "rating": 4.6,
+    "reviewCount": 94,
+    "description": "Balanced everyday nutrition with real chicken, garden vegetables and added glucosamine for joint support.",
+    "details": ["3kg resealable pouch", "Added glucosamine & chondroitin", "Suitable for all breed sizes"],
+    "sizes": [
+      { "label": "3kg", "priceDelta": 0.0 },
+      { "label": "7.5kg", "priceDelta": 24.0 }
+    ],
+    "icon": "restaurant",
+    "tint": "DCE1F0"
+  },
+  {
+    "id": "p3",
+    "name": "Grain-Free Turkey Cat Food 1.5kg",
+    "category": "food",
+    "price": 16.75,
+    "rating": 4.4,
+    "reviewCount": 61,
+    "description": "Grain-free dry food formulated with turkey as the first ingredient, supporting lean muscle and a healthy weight.",
+    "details": ["1.5kg resealable pouch", "Grain-free recipe", "Suitable for adult cats"],
+    "sizes": [
+      { "label": "1.5kg", "priceDelta": 0.0 },
+      { "label": "3kg", "priceDelta": 14.5 }
+    ],
+    "icon": "pets",
+    "tint": "DCE1F0"
+  },
+  {
+    "id": "p4",
+    "name": "Tuna Pate Wet Cat Food 85g (4-pack)",
+    "category": "food",
+    "price": 7.4,
+    "rating": 4.7,
+    "reviewCount": 203,
+    "description": "Smooth tuna pate in easy-serve pouches, a tasty complete meal or topper cats go back for.",
+    "details": ["4 x 85g pouches", "Complete & balanced", "No added sugar"],
+    "sizes": [],
+    "icon": "set_meal",
+    "tint": "DCE1F0"
+  },
+  {
+    "id": "p5",
+    "name": "Squeaky Bone Toy",
+    "category": "toys",
+    "price": 6.5,
+    "rating": 4.3,
+    "reviewCount": 87,
+    "description": "Durable rubber bone with an internal squeaker to keep dogs engaged during solo or interactive play.",
+    "details": ["Non-toxic rubber", "Built-in squeaker", "Suitable for small-medium dogs"],
+    "sizes": [],
+    "icon": "sports_baseball",
+    "tint": "DCE1F0"
+  },
+  {
+    "id": "p6",
+    "name": "Feather Wand Cat Teaser",
+    "category": "toys",
+    "price": 5.25,
+    "rating": 4.5,
+    "reviewCount": 142,
+    "description": "Retractable wand with natural feathers that mimics prey movement to encourage healthy exercise.",
+    "details": ["Retractable wand, 90cm extended", "Replaceable feather attachment", "Great for interactive play"],
+    "sizes": [],
+    "icon": "auto_awesome",
+    "tint": "DCE1F0"
+  },
+  {
+    "id": "p7",
+    "name": "Interactive Puzzle Feeder Ball",
+    "category": "toys",
+    "price": 11.99,
+    "rating": 4.6,
+    "reviewCount": 76,
+    "description": "Adjustable treat-dispensing ball that slows down fast eaters while providing mental stimulation.",
+    "details": ["Adjustable difficulty dial", "Dishwasher-safe", "Fits small kibble & treats"],
+    "sizes": [],
+    "icon": "extension",
+    "tint": "DCE1F0"
+  },
+  {
+    "id": "p8",
+    "name": "Rope Tug Toy",
+    "category": "toys",
+    "price": 4.99,
+    "rating": 4.2,
+    "reviewCount": 58,
+    "description": "Triple-braided cotton rope for tug-of-war play that also helps clean teeth as your dog chews.",
+    "details": ["100% cotton rope", "Helps reduce plaque build-up", "Machine washable"],
+    "sizes": [],
+    "icon": "link",
+    "tint": "DCE1F0"
+  },
+  {
+    "id": "p9",
+    "name": "Oatmeal Pet Shampoo 250ml",
+    "category": "grooming",
+    "price": 9.25,
+    "rating": 4.5,
+    "reviewCount": 112,
+    "description": "Soap-free oatmeal shampoo that soothes sensitive skin and leaves coats soft and residue-free.",
+    "details": ["250ml bottle", "Soap-free, pH balanced", "Suitable for dogs & cats"],
+    "sizes": [],
+    "icon": "bathtub",
+    "tint": "DCE1F0"
+  },
+  {
+    "id": "p10",
+    "name": "Slicker Brush De-shedding Tool",
+    "category": "grooming",
+    "price": 8.5,
+    "rating": 4.4,
+    "reviewCount": 69,
+    "description": "Fine slicker bristles remove loose undercoat and tangles without scratching the skin.",
+    "details": ["Self-cleaning retractable bristles", "Ergonomic non-slip handle", "Suitable for most coat types"],
+    "sizes": [],
+    "icon": "brush",
+    "tint": "DCE1F0"
+  },
+  {
+    "id": "p11",
+    "name": "Nail Clipper with Safety Guard",
+    "category": "grooming",
+    "price": 6.99,
+    "rating": 4.3,
+    "reviewCount": 45,
+    "description": "Stainless steel clippers with a safety stop guard to help avoid cutting the quick.",
+    "details": ["Stainless steel blades", "Built-in safety guard", "Non-slip rubber grip"],
+    "sizes": [],
+    "icon": "content_cut",
+    "tint": "DCE1F0"
+  },
+  {
+    "id": "p12",
+    "name": "Salmon Oil Skin & Coat Supplement",
+    "category": "health",
+    "price": 13.99,
+    "rating": 4.7,
+    "reviewCount": 98,
+    "description": "Pure salmon oil rich in omega-3 fatty acids to support a healthy coat, skin and joints.",
+    "details": ["250ml pump bottle", "Rich in EPA & DHA", "For dogs & cats"],
+    "sizes": [],
+    "icon": "opacity",
+    "tint": "DCE1F0"
+  },
+  {
+    "id": "p13",
+    "name": "Adult Multivitamin Chews (60ct)",
+    "category": "health",
+    "price": 15.5,
+    "rating": 4.4,
+    "reviewCount": 52,
+    "description": "Daily soft chews with essential vitamins and minerals to support overall wellbeing.",
+    "details": ["60 soft chews", "Chicken flavour", "Vet-formulated"],
+    "sizes": [],
+    "icon": "medication",
+    "tint": "DCE1F0"
+  },
+  {
+    "id": "p14",
+    "name": "Dental Care Chew Sticks",
+    "category": "health",
+    "price": 10.25,
+    "rating": 4.5,
+    "reviewCount": 84,
+    "description": "Textured dental sticks that help reduce tartar build-up and freshen breath with daily chewing.",
+    "details": ["Pack of 28 sticks", "Reduces plaque & tartar", "Suitable for medium dogs"],
+    "sizes": [],
+    "icon": "healing",
+    "tint": "DCE1F0"
+  },
+  {
+    "id": "p15",
+    "name": "Cat Scratching Post",
+    "category": "accessories",
+    "price": 24.0,
+    "rating": 4.6,
+    "reviewCount": 137,
+    "description": "Sisal-wrapped scratching post with a plush platform, giving cats a dedicated spot to scratch and perch.",
+    "details": ["70cm tall, sisal rope wrapped", "Weighted non-tip base", "Plush top platform"],
+    "sizes": [],
+    "icon": "park",
+    "tint": "DCE1F0"
+  },
+  {
+    "id": "p16",
+    "name": "Adjustable Nylon Dog Collar",
+    "category": "accessories",
+    "price": 7.99,
+    "rating": 4.3,
+    "reviewCount": 71,
+    "description": "Durable nylon collar with a quick-release buckle and adjustable sizing for a secure, comfortable fit.",
+    "details": ["Adjustable 30-45cm", "Quick-release buckle", "Reflective stitching"],
+    "sizes": [
+      { "label": "S", "priceDelta": 0.0 },
+      { "label": "M", "priceDelta": 1.0 },
+      { "label": "L", "priceDelta": 2.0 }
+    ],
+    "icon": "pets",
+    "tint": "DCE1F0"
+  },
+  {
+    "id": "p17",
+    "name": "Memory Foam Pet Bed (M)",
+    "category": "accessories",
+    "price": 29.99,
+    "rating": 4.8,
+    "reviewCount": 156,
+    "description": "Orthopaedic memory foam bed with a removable, washable cover for lasting comfort and easy cleaning.",
+    "details": ["Removable washable cover", "Non-slip base", "Medium: 70 x 50cm"],
+    "sizes": [
+      { "label": "M", "priceDelta": 0.0 },
+      { "label": "L", "priceDelta": 10.0 }
+    ],
+    "icon": "bed",
+    "tint": "DCE1F0"
+  },
+  {
+    "id": "p18",
+    "name": "Stainless Steel Double Feeding Bowl",
+    "category": "accessories",
+    "price": 12.5,
+    "rating": 4.5,
+    "reviewCount": 63,
+    "description": "Rust-resistant stainless steel double bowl set on a non-slip stand for food and water.",
+    "details": ["Non-slip silicone stand", "Dishwasher-safe bowls", "2 x 350ml capacity"],
+    "sizes": [],
+    "icon": "ramen_dining",
+    "tint": "DCE1F0"
+  }
+]

@@ -1,0 +1,7 @@
+[
+  { "id": "food", "name": "Food", "icon": "restaurant" },
+  { "id": "toys", "name": "Toys", "icon": "toys" },
+  { "id": "grooming", "name": "Grooming", "icon": "content_cut" },
+  { "id": "health", "name": "Health", "icon": "favorite" },
+  { "id": "accessories", "name": "Accessories", "icon": "shopping_bag" }
+]
