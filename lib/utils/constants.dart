@@ -1,11 +1,14 @@
 class AppConstants {
   AppConstants._();
 
-  // Fill this in once you've pushed this repo to GitHub, e.g.
-  // 'https://raw.githubusercontent.com/<your-username>/<your-repo>/main/assets/data/products.json'
-  // Until then (or if unreachable/offline) ProductRepository falls back to the
-  // bundled asset at assets/data/products.json automatically.
-  static const String remoteProductsJsonUrl = '';
+  // Own Laravel + MongoDB API (see ~/Desktop/rugodymur-api), serving the
+  // product/category catalogue as this app's "external JSON file" data
+  // source. 127.0.0.1 reaches the host Mac directly from the iOS
+  // Simulator; an Android emulator needs 10.0.2.2 instead, and a physical
+  // device needs the Mac's LAN IP with both devices on the same network.
+  // If unreachable/offline, ProductRepository falls back to the bundled
+  // asset at assets/data/products.json automatically.
+  static const String apiBaseUrl = 'http://127.0.0.1:8000/api';
 
   static const String dogRandomImageApi =
       'https://dog.ceo/api/breeds/image/random';
